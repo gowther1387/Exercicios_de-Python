@@ -4,7 +4,7 @@ Este repositório contém soluções para diversos exercícios de programação 
 
 ## 📚 Conteúdo
 
-Os códigos estão organizados por plataformas. A estrutura do repositório pode seguir o seguinte formato:
+Os códigos estão organizados por plataformas.
 
 
 ## 🛠️ Tecnologias Utilizadas
